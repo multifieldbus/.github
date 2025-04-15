@@ -6,7 +6,7 @@ Thanks to protocol support from PROFINET, Ethernet/IP and Modbus/TCP, the MultiF
 Click on the badges below to find more Siemens [open source projects](https://opensource.siemens.com)!
 
 [![Siemens](https://img.shields.io/badge/github-siemens-009999?logo=github)](https://github.com/siemens)
-[![Industrial Edge](https://img.shields.io/badge/github-industrial%20edge-blue?logo=github)](http://siemens.com/industrial-edge)
+[![Industrial Edge](https://img.shields.io/badge/github-industrial%20edge-blue?logo=github)](https://github.com/industrial-edge)
 [![Industrial IoT](https://img.shields.io/badge/github-industrial%20iot-003751?logo=github)](https://github.com/mindsphere)
 [![Mendix](https://img.shields.io/badge/github-mendix-0595db?logo=github)](https://github.com/mendix)
 [![IOT2050](https://img.shields.io/badge/github-iot2050-green?logo=github)](https://github.com/SIMATICmeetsLinux)
